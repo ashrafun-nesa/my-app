@@ -1,0 +1,19 @@
+.container2 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.col-7 {
+  background-color: white;
+  height: 250px;
+  width: 540px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+.col-4 {
+  background-color: white;
+  width: 350px;
+  height: 250px;
+  margin-left: 7px;
+  border-radius: 5px;
+}

@@ -1,0 +1,14 @@
+.border-style{
+    display: flex;
+    height: 80px;
+    width: 300px;
+    margin: 10px;
+    border: 2px dashed lightgray;
+    border-radius: 10px;
+    
+}
+.circle-percentage{
+    height: 60px;
+    width: 60px;
+    margin: 10px;
+  }

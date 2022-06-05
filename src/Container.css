@@ -1,0 +1,11 @@
+.row {
+    justify-content: space-evenly;
+    height: 110px;
+  }
+  .col{
+     
+      background-color: white;
+      border-radius: 5px;
+      padding: 10px;
+      margin: 0px 10px ;
+  }
